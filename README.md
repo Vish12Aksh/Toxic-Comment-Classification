@@ -1,4 +1,4 @@
-# Toxic-Comment-Classification
+# Toxic Comment Classification
   
 Dataset: Includes text comments labeled with toxicity categories like "toxic" or "identity_hate."
 
